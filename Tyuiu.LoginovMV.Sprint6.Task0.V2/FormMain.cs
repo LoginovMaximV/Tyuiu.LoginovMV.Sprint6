@@ -20,7 +20,7 @@ namespace Tyuiu.LoginovMV.Sprint6.Task0.V2
 
         private void buttonHelp_LMV_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Таск 0 выполнил студент группы ИИПб-23-2 Логинов Максим Валерьевич","Сообщение");
+            MessageBox.Show("Таск 0 выполнил студент группы ИИПб-23-2 Логинов Максим Валерьевич","Сообщение",MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void buttonDone_LMV_Click(object sender, EventArgs e)
