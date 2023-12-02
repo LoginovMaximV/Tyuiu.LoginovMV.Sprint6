@@ -123,6 +123,7 @@ namespace Tyuiu.LoginovMV.Sprint6.Task0.V2
             // 
             this.textBoxResult.Location = new System.Drawing.Point(11, 64);
             this.textBoxResult.Name = "textBoxResult";
+            this.textBoxResult.ReadOnly = true;
             this.textBoxResult.Size = new System.Drawing.Size(89, 26);
             this.textBoxResult.TabIndex = 1;
             // 
@@ -168,7 +169,7 @@ namespace Tyuiu.LoginovMV.Sprint6.Task0.V2
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "FormMain_LMV";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Спринт 6 | Таск 0 | Вариант 2 | Логинов М.В";
             this.groupBoxCondition_LMV.ResumeLayout(false);
             this.groupBoxCondition_LMV.PerformLayout();
