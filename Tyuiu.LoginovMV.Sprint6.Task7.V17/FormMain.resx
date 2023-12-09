@@ -117,12 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="openFileDialog_LMV.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <metadata name="toolTip_LMV.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>211, 17</value>
-  </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="buttonAbout_LMV.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -166,28 +160,35 @@
         Lfuwb4/V/r8Kj4KPTj6/+RLhsnYF67iPbd5yxP36/Rc1gSQ4HAJnDgAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="buttonDone_LMV.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <metadata name="toolTipButton_LMV.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>279, 21</value>
+  </metadata>
+  <data name="buttonSaveFile_LMV.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29m
-        dHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAQISURBVFhHtZfLbxtVFMaPxGtV8RDtv8Cmoi8BQoJS
-        EhDtomXDAnaIFTtWgEQCaaAtEl2ClDRFSgtYURs7tpRGiaJWCmqbhkYFtaipKiLysD2O83CI4/fr43zX
-        7lDH9jBW3E/66Uwy957z3TN3JjcCQFSP+/z+S75AAN6hIQw2hc9EnY+LXm+AuZjQtSoGdjDBdhWNRuEZ
-        GBjSfI8xqSvpPIadXDn199w85uYXXMPx1M8ej4mRSAS/DAx4Nac7EzqHYRfbSM0vLGJhMYjFYOh/4TiO
-        p7Qo1mLr5tqyLFz0+SzN+wSTO0rHM9gGmDQYCruG4yltPZLJFKLLK+Znmrjg9YY1t7MJHctgG+DKQmHL
-        NRxP0UChkEc8vmmb4OPQTjib0HEMtoGwOrd0oltCVtjM4yOgaIKdePA4uDF1gy9rjfomdAzDrkGfz0xg
-        0sjSkmvCEcvMuzk9bUywE4TXP1U2Jt8wrfEMC9VI7zPYBiJLUSxFl13D8ZvxhJnbSOwua7BQjfQ+g22A
-        SfkMm8EYqfCwMUIxN2uwUI30PoNtYFkTrqysbhvmIVRTBjh5dXWtJTAX1ZSB1dia7uBYS2AuqikDsfWY
-        st4iYiZnUwbW/9loKVRTBjY24i1i0349+YeONVioRnqfwTbAT+l2YeFUIotixqREIDDi3sBmIrFtksk0
-        kAd2fyE4Pfo+xkem3BtIJJMuSSGVSiOVziCdzlaRzRRNrpe6BB0ewSe9b7s3kEoxsTNpLZzL6BILZkpD
-        vdItuLvwKTovCA51S/2Tko5jsA2UV8FVNSabyQG6yC7fEeztEOzrFOx/iANfiln9y8rd4HFcu/8BvhoU
-        tJ+oY2KrgYwmz2SyjuRy5Rbv0eJzKz/gduQI7kSOKscqvGu4bR3FPet79EwIJmc/RJdf8NZWE5qHwTaQ
-        zeeRzeUcKRRKZixXPhP5Bj1XBb3KmS3wd73X9Pq6oG9ScGP+I3QPC945JcNas3x61jwMtoFCoYC8mnCi
-        VG6Aafd06GP0TGkh5cxWfivTV4nnbz2F0dndOPydsOgOFq4xUCwWjQknUG4ADqiBieAx9P0hONuAvltl
-        zv4u6L8j6B4TtHXKhNZ8joX/M1A5klGlUsmRB2IHxsJ70X9fcK4O/fcEP/5Z5tyM4Pi44ODn8qvWe1Gp
-        7gD/K2pWp0ffw6tfC147Uc3ryhtE752f1eJ/6cov28X3K88r1XtgyO+P8+zGTvBxOMFvuz8wjJFLVzA+
-        eh2Xx6aquDJ2E1fHZ3DopMAT1pXrW3Dws6riNW8BD4z7lDalvUUcfvNbwckb2onqldf9DvDITBP8XLaK
-        F9p1t7d1yKRe1y9OVQw8Cj2rcLPtUXYqtcWpR2jgSeVphbu9wb/sIv8CLsCWtOnpNusAAAAASUVORK5C
-        YII=
+        dHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAUBSURBVFhHrZdbTJtlGMebbEQ3HJtz4DxcGu+80Du9
+        UVlMNPHOC7003puZuIPbZBMkolkwGuKiJiaaoQ7GulJ62DLi3NGNwZgyBy0Cbem5pbSl/TiU7u/zf3tw
+        g9J+HT7JL+/X933e5/n3+U7PZwBgENu4s9lqqTtsw6ZDVsFSNY80WbG9qc/EWAyo2/ICtjD5eq1/PILa
+        /UajxNvAoLpM9nGo5z+n9Y4GYBb6xoIVoZ9JoBne71GjbSyMTfuMPRJTnwjuFWtgGWkWRwB2RxB2Z6gy
+        4kd/mmG3Ec7onDq2jIaw6aDFL3FrGLysca9YUcDZ8RDOTYTRrwP60Z9m+MCIcGoRN/1x9Tsnos8nscuL
+        4F6xooD+f8L4bTKC8zqgH/1pFJDJZjE1q2EoL8Iup6P2UAUR3CvW8HBewPmpCC64orioA/pRCM2w+5Qa
+        KYKVcEZT6jcvzO1HbGHJUVqE+HAoCrgkQS+7Z3BFB/S7OBVV+97tHlbXASuh4HH+wuQtKjm2MdEqk3UO
+        RQFXPTP4YzqGazqhv3s2rfauZTy9zMFEq0zWORQFXJegA95Z3NAJfbnnmicniMfF3wKNsZmDiVaZrHMo
+        Chj0xdVFxKu5GrjnXgZ9swpaVQJuBROKP9dJIQ6tKgEjoaTi9jopxKFVJWA0Moc7Ake9jJWgsEarSgDv
+        X4fAsRLjwkQsDZc8fNxxDZ57cOfnaJs/VrdhBQEHcwImYgxamUnBk0grEf+rAJfc03pgkmh6AW//MgjD
+        XhMM+4Q9BXr/Y68ZNQcsqBURWw9bsaPZjqdazzglZ+7JuFKAN6FhWgf+uXmkljIwfHgaV4NZXPBl1P5y
+        dsm/jCF5cFKE5NzKxKsEBJLz8OsglFrA4vKy/MvTGA4vwdA6hngygW6TGV29FnSbrQp1LHNco89INMN3
+        A5PWM/EqAZH0orxMFhCW8pYjpi0hi7tKwEXvIja3OxGNxeGRnsA9I6cojzqWOa7R54p/qSAgd02sFJBY
+        yCAucCxHamlZ+fP82yY1NHRMIBSJo/OkGcd7LOjMo45ljmv0Oeuax2OflBKQvw1P/e3D6Tv+ipjHAupV
+        vGF/L0460njmOxf8gSjGvTNweGP3wTmu0cfo1LCjlIBCQ2Ia9Uu/F5BWi+3W2tidQekJItgoAn66ncIL
+        P7px/EYAbncYE6774RzX6NN5JyUXYRkBbEot0nBaJUk57NKKXXJHUfNRL77/K4lXT3jx8q9evPTzNF5c
+        Aee4Rp8fRuZQX06AqkBeRDls+QpQQMdwEm/2+PDGSS9e6/JiV55GSdh4YlrNcY0+x26tKSDXlvP8mgRW
+        ohx9UoXfpX3bKALaB5J4yxRA182gRMiqOMqkPcOyPB+yGXQNBZTPV4NrCHjQD5OHDpjRdj2Bd/pC8Pij
+        mPAnsOdQC/Y1tcIhvcVtqdKoXAceX0T5fDGQQEMpAU80W5Pq00wemTwdleDzvU56vW2HLfhsYA7vnY0i
+        FJ1FQN4BzW3taPn8S3hjGiaDs5gKxBCMxJRPm/iWEsCG8XmhUdhVBa8/3mLH0UEN+y8ncXdRw7KU/JuO
+        r/HtsQ5kMhlomiakkV1IK5+jQxp2yh7Ze58AvhgogpPV8OyTB7tHGJAPF1aw7sgZPNrSj20t57BFjmub
+        bAqu0Ye+T39qm8vvLwp4UKsTnhNeEUpVqBSsMquda9PXKYCf4hTBF8vK6pSDyaXqBsO/0hntMBdsa0gA
+        AAAASUVORK5CYII=
 </value>
   </data>
   <data name="buttonOpenFile_LMV.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -219,7 +220,37 @@
         RU5ErkJggg==
 </value>
   </data>
-  <data name="textBoxTask_LMV.Text" xml:space="preserve">
-    <value>Дан файл InPutFileTask6V25.txt который может находится в любом месте на диске. Загрузить файл в textBoxIn через openFileDialog. Вывести слова в которых встречается E в результирующею строку и вывести ее в textBoxOut.</value>
+  <data name="buttonDone_LMV.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29m
+        dHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAQISURBVFhHtZfLbxtVFMaPxGtV8RDtv8Cmoi8BQoJS
+        EhDtomXDAnaIFTtWgEQCaaAtEl2ClDRFSgtYURs7tpRGiaJWCmqbhkYFtaipKiLysD2O83CI4/fr43zX
+        7lDH9jBW3E/66Uwy957z3TN3JjcCQFSP+/z+S75AAN6hIQw2hc9EnY+LXm+AuZjQtSoGdjDBdhWNRuEZ
+        GBjSfI8xqSvpPIadXDn199w85uYXXMPx1M8ej4mRSAS/DAx4Nac7EzqHYRfbSM0vLGJhMYjFYOh/4TiO
+        p7Qo1mLr5tqyLFz0+SzN+wSTO0rHM9gGmDQYCruG4yltPZLJFKLLK+Znmrjg9YY1t7MJHctgG+DKQmHL
+        NRxP0UChkEc8vmmb4OPQTjib0HEMtoGwOrd0oltCVtjM4yOgaIKdePA4uDF1gy9rjfomdAzDrkGfz0xg
+        0sjSkmvCEcvMuzk9bUywE4TXP1U2Jt8wrfEMC9VI7zPYBiJLUSxFl13D8ZvxhJnbSOwua7BQjfQ+g22A
+        SfkMm8EYqfCwMUIxN2uwUI30PoNtYFkTrqysbhvmIVRTBjh5dXWtJTAX1ZSB1dia7uBYS2AuqikDsfWY
+        st4iYiZnUwbW/9loKVRTBjY24i1i0349+YeONVioRnqfwTbAT+l2YeFUIotixqREIDDi3sBmIrFtksk0
+        kAd2fyE4Pfo+xkem3BtIJJMuSSGVSiOVziCdzlaRzRRNrpe6BB0ewSe9b7s3kEoxsTNpLZzL6BILZkpD
+        vdItuLvwKTovCA51S/2Tko5jsA2UV8FVNSabyQG6yC7fEeztEOzrFOx/iANfiln9y8rd4HFcu/8BvhoU
+        tJ+oY2KrgYwmz2SyjuRy5Rbv0eJzKz/gduQI7kSOKscqvGu4bR3FPet79EwIJmc/RJdf8NZWE5qHwTaQ
+        zeeRzeUcKRRKZixXPhP5Bj1XBb3KmS3wd73X9Pq6oG9ScGP+I3QPC945JcNas3x61jwMtoFCoYC8mnCi
+        VG6Aafd06GP0TGkh5cxWfivTV4nnbz2F0dndOPydsOgOFq4xUCwWjQknUG4ADqiBieAx9P0hONuAvltl
+        zv4u6L8j6B4TtHXKhNZ8joX/M1A5klGlUsmRB2IHxsJ70X9fcK4O/fcEP/5Z5tyM4Pi44ODn8qvWe1Gp
+        7gD/K2pWp0ffw6tfC147Uc3ryhtE752f1eJ/6cov28X3K88r1XtgyO+P8+zGTvBxOMFvuz8wjJFLVzA+
+        eh2Xx6aquDJ2E1fHZ3DopMAT1pXrW3Dws6riNW8BD4z7lDalvUUcfvNbwckb2onqldf9DvDITBP8XLaK
+        F9p1t7d1yKRe1y9OVQw8Cj2rcLPtUXYqtcWpR2jgSeVphbu9wb/sIv8CLsCWtOnpNusAAAAASUVORK5C
+        YII=
+</value>
   </data>
+  <data name="textBoxTask_LMV.Text" xml:space="preserve">
+    <value>Дан файл InPutFileTask7V17.csv в котором хранится матрица целочисленных значений. Загрузить файл через openFileDialog в объект dataGridViewIn. Изменить во второй строке четные числа на 4. Результат вывести в объект dataGridViewOut. Сохранить результат в файл OutPutFileTask7.csv через saveFileDialog.</value>
+  </data>
+  <metadata name="openFileDialogTask_LMV.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="saveFileDialogMatrix_LMV.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>492, 26</value>
+  </metadata>
 </root>

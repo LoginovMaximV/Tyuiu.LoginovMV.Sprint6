@@ -79,6 +79,7 @@ namespace Tyuiu.LoginovMV.Sprint6.Task6.V25
             // 
             // buttonDone_LMV
             // 
+            this.buttonDone_LMV.Enabled = false;
             this.buttonDone_LMV.Image = ((System.Drawing.Image)(resources.GetObject("buttonDone_LMV.Image")));
             this.buttonDone_LMV.Location = new System.Drawing.Point(89, 3);
             this.buttonDone_LMV.Name = "buttonDone_LMV";
